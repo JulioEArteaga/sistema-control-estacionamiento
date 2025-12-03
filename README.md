@@ -1,8 +1,8 @@
-Sistema de Control de Estacionamiento 🚗
+
 
 Sistema web para la gestión de entradas y salidas de vehículos en un estacionamiento, desarrollado con PHP y MySQL. Permite calcular automáticamente el tiempo y el cobro según las tarifas establecidas, con funcionalidades para gestionar usuarios y generar reportes diarios.
----
-🛠️ Tecnologías
+
+ Tecnologías
 
 Este proyecto está construido utilizando las siguientes tecnologías:
 
@@ -15,9 +15,9 @@ HTML5: Estructura del contenido web.
 CSS3 y Bootstrap: Para el diseño y maquetación responsiva.
 
 JavaScript (AJAX): Para mejorar la interacción sin recargar la página.
----
 
-⚙️ Funcionalidades
+
+Funcionalidades
 
 El sistema cuenta con varias características para facilitar la gestión del estacionamiento:
 
@@ -36,7 +36,6 @@ Reporte diario detallado de las operaciones realizadas.
 Control de acceso y sesiones para garantizar la seguridad del sistema.
 
 
-## 📸 Capturas del sistema
 
 ---
 🏠 Panel de Control

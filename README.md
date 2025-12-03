@@ -41,13 +41,13 @@ Capturas de pantalla
 
 Aquí te dejo algunas imágenes que muestran las diferentes secciones del sistema:
 
-Panel de Control:
+Panel de Control: (https://github.com/user-attachments/assets/68f8d455-762e-40ba-aac7-f097c9219a67)
 
-Gestión de Usuarios:
+Gestión de Usuarios: (https://github.com/user-attachments/assets/c65171e6-ec7a-40d2-a14e-d2733a46b659)
 
-Reporte Diario:
+Reporte Diario: (https://github.com/user-attachments/assets/5498196b-2a0b-435a-a4b4-b2abd335af38)
 
-Control de Estacionamiento:
+Control de Estacionamiento: (https://github.com/user-attachments/assets/669323bd-1110-47d4-ac47-51a74c90cd45)
 
 ✍️ Autor
 
